@@ -74,5 +74,3 @@ class XueTang(object):
                 continue
         print("已全部播放完")
 
-myMOOC = XueTang("20151120232", "gotoAnd123")
-myMOOC.autoWatchFromStartToEnd()
